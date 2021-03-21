@@ -1,0 +1,2 @@
+# Fvtt_coc7_crazylist
+FVTT平台coc跑团所用的7版的疯狂随机表
