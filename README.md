@@ -38,9 +38,11 @@ FVTT平台coc跑团所用的7版的疯狂随机表
 > 4. 重启fvtt，完成
 > 
 
-快速调用方法，宏
+快速调用方法，宏  
+
 ![image-202101163629703](https://raw.githubusercontent.com/kagangtuya-star/fvtt_coc_img/main/20210321170602.png)
-![image-202101163629703](https://raw.githubusercontent.com/kagangtuya-star/fvtt_coc_img/main/image-20210321172157909.png)
+![image-202101163629703](https://raw.githubusercontent.com/kagangtuya-star/fvtt_coc_img/main/image-20210321172157909.png)  
+
 感谢 猫斯基 提供的mod写法与快速调用方案
 
 
