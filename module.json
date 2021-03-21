@@ -1,0 +1,20 @@
+{
+    "name": "coc7_Crazylist_cn",
+    "title": "自用的coc7版的疯狂状态随机表",
+    "description": "coc7版的疯狂状态随机表，是个合集包mod",
+    "version": "0.1.0",
+    "minimumCoreVersion" : "0.7.0",
+    "author": "星尘",
+    "scripts": [],
+    "styles": [],
+    "packs": [{
+		"name": "COC7疯狂状态",
+		"label": "COC7自用随机表",
+		"path": "crazylist.db",
+		"module": "coc7_Crazylist_cn",
+		"entity": "RollTable"
+	}],
+    "url": "https://github.com/kagangtuya-star/Fvtt_coc7_crazylist",
+    "manifest": "https://github.com/kagangtuya-star/Fvtt_coc7_crazylist",
+    "download": "https://github.com/kagangtuya-star/Fvtt_coc7_crazylist"
+}
