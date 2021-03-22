@@ -38,9 +38,11 @@ FVTT平台coc跑團所用的7版的瘋狂隨機表
 > 4. 重啟fvtt，完成
 >
 
-快速調用方法，宏
+快速調用方法，Macro
 
 ![image-202101163629703](https://raw.githubusercontent.com/kagangtuya-star/fvtt_coc_img/main/20210321170602.png)
 ![image-202101163629703](https://raw.githubusercontent.com/kagangtuya-star/fvtt_coc_img/main/image-20210321172157909.png)
 
 感謝 貓斯基 提供的mod寫法與快速調用方案
+
+來自https://github.com/kagangtuya-star/Fvtt_coc7_crazylist
