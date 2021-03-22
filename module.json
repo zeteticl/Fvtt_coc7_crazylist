@@ -15,6 +15,6 @@
 "entity": "RollTable"
 }],
     "url": "https://github.com/zeteticl/Fvtt_coc7_crazylist",
-    "manifest": "https://github.com/zeteticl/Fvtt_coc7_crazylist",
+    "manifest": "https://raw.githubusercontent.com/zeteticl/Fvtt_coc7_crazylist/main/module.json",
     "download": "https://github.com/zeteticl/Fvtt_coc7_crazylist/archive/refs/heads/main.zip"
 }
